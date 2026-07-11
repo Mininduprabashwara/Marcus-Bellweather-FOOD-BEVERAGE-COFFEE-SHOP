@@ -1,0 +1,15 @@
+
+.sticky{
+            position:sticky;
+            background-color: rgb(200, 183, 32);
+            top:30px;
+            font-size: large;
+            width: 100%;
+            text-align: right;
+            padding: 20px;
+        }
+.gravitas-one-regular {
+  font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
